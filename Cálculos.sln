@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculos", "Cálculos\Cálculos.csproj", "{E4F28176-3ED7-44E0-8FDE-9D0010CEE590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F28176-3ED7-44E0-8FDE-9D0010CEE590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F28176-3ED7-44E0-8FDE-9D0010CEE590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F28176-3ED7-44E0-8FDE-9D0010CEE590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F28176-3ED7-44E0-8FDE-9D0010CEE590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389BE12A-CC13-4AF0-984A-AAC957969398}
+	EndGlobalSection
+EndGlobal
